@@ -15,7 +15,7 @@ This code tracks and analyzes the performance of various Pekao SA investment fun
 - [Pekao Spokojna Inwestycja](https://pekaotfi.pl/produkty/fundusze-inwestycyjne/pekao-spokojna-inwestycja?currency=PLN)
 - [Pekao Obligacji Plus](https://pekaotfi.pl/produkty/fundusze-inwestycyjne/pekao-obligacji-plus?currency=PLN)
 
-It downloads historical price data (from August 26, 2025 to today) via CSV from the Pekao TFI website and calculates key metrics for each fund:
+It downloads historical price data (from 20 October 2025 to today) via CSV from the Pekao TFI website and calculates key metrics for each fund:
 
 - Starting and current prices (kurs_start, kurs_teraz)
 - Min/max prices with dates (kurs_min, kurs_max and their dates)
