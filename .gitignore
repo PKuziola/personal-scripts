@@ -1,2 +1,6 @@
+#private files
 check_goldman_sachs_funds/info.txt
 check_pekao_sa_funds/info.txt
+
+#gcp service account key
+gcp_service_account_key.json
